@@ -1,0 +1,50 @@
+1. Address Book: 
+    Create a database that stores contacts with their information such as name, city, location, phone number, and email address. 
+    Thorugh restapi extract names of contacts based on a given city.
+    Thorugh restapi extract names of contacts based on a given email.
+    Thorugh restapi extract names of contacts based on a names starting with letter of your choice.
+
+2. Library Management: 
+    Create a database that stores books, authors, and borrowers. 
+    through rest api allow users to search for books by title or author, borrow and return books, and track book availability.
+
+3. Fitness Tracker: 
+    Create a database that stores workout routines, exercises, and user progress everyday basis. 
+    through rest api allow users to create and log workouts, track their progress, and generate reports such as workout summaries and progress charts.
+
+4. Employee Management: 
+    Create a database that stores employee information such as name, department, position, salary, and employment history. 
+    Allow users to add, edit, and delete employees and generate reports such as employee performance reports and salary reports.
+
+5. E-commerce: 
+    Create a database that stores product information, customer information, and order information. 
+    Allow users to browse products, add items to their cart, checkout, and track their orders.
+
+6. Recipe Book: 
+    Create a database that stores recipes and ingredients.
+    Allow users to search for recipes by name or ingredient, save their favorite recipes, and generate shopping lists.
+
+7. Blogging Platform: 
+    Create a database that stores blog posts, comments, and user information. 
+    Allow users to create, edit, and delete blog posts, comment on posts, and manage their account.
+
+8. Music Player: 
+    Create a database that stores music albums, tracks, and playlists. 
+    Allow users to search for music, create and manage playlists, and play music.
+
+9. Movie Database: 
+    Create a database that stores movie information such as title, genre, and release date. 
+    Allow users to search for movies, view movie details, and create and manage their watchlist.
+
+10. Event Planner: 
+    Create a database that stores event information such as date, time, location, and attendees. 
+    Allow users to create and manage events, invite attendees, and track RSVPs.
+
+11. Task Manager: 
+    Create a database that stores tasks, their due dates, and their status. 
+    Allow users to create and manage tasks, set reminders, and generate reports such as task completion reports and overdue tasks reports.
+
+12. Guestbook: 
+    Create a database that stores guestbook entries with information such as name, email, and message. 
+    Allow users to add new entries, view existing entries, and search for entries by name or email.
+
