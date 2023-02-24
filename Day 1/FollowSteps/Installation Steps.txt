@@ -12,6 +12,7 @@ Step 1: Install MySQL workbench
        $ sudo apt update
        $ sudo snap install snapd
        $ snap install mysql-workbench-community
+       $ sudo snap connect mysql-workbench-community:password-manager-service :password-manager-service
     - Configure the database
         get host address, username, password from config.json in code
         use steps mentioned in "Connet to Database from workbench.pdf"
