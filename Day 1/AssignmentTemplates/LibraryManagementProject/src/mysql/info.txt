@@ -1,1 +1,0 @@
-# This folder 'mysql' can be deleted when done with data insertion

@@ -1,12 +1,20 @@
-1. Address Book: 
+sample 1. Address Book: 
     Create a database that stores contacts with their information such as name, city, location, phone number, and email address. 
     Thorugh restapi extract names of contacts based on a given city.
     Thorugh restapi extract names of contacts based on a given email.
     Thorugh restapi extract names of contacts based on a names starting with letter of your choice.
 
-2. Library Management: 
+sample 2. Library Management: 
     Create a database that stores books, authors, and borrowers. 
     through rest api allow users to search for books by title or author, borrow and return books, and track book availability.
+
+1. Guestbook: 
+    Create a database that stores guestbook entries with information such as name, email, and message. 
+    Allow users to add new entries, view existing entries, and search for entries by name or email.
+
+2. Task Manager: 
+    Create a database that stores tasks, their due dates, and their status. 
+    Allow users to create and manage tasks, set reminders, and generate reports such as task completion reports and overdue tasks reports.
 
 3. Fitness Tracker: 
     Create a database that stores workout routines, exercises, and user progress everyday basis. 
@@ -39,12 +47,3 @@
 10. Event Planner: 
     Create a database that stores event information such as date, time, location, and attendees. 
     Allow users to create and manage events, invite attendees, and track RSVPs.
-
-11. Task Manager: 
-    Create a database that stores tasks, their due dates, and their status. 
-    Allow users to create and manage tasks, set reminders, and generate reports such as task completion reports and overdue tasks reports.
-
-12. Guestbook: 
-    Create a database that stores guestbook entries with information such as name, email, and message. 
-    Allow users to add new entries, view existing entries, and search for entries by name or email.
-

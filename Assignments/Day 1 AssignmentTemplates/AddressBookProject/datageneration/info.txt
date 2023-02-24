@@ -1,0 +1,2 @@
+# This folder 'datageneration' can be deleted when done with data insertion.
+# push along with code for verification
