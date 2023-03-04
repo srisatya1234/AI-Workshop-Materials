@@ -1,0 +1,5 @@
+1. Create a Shallow network on your remote system and run it live
+2. Create a kNN algorithm app on your remote system and run it live. 
+   train the data on your customized dataset.
+
+kNN algorithm:
